@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋 I'm Mahmoud!
 
-<!--
-**iMahmoudHani/iMahmoudHani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Data Analyst with a passion for transforming complex data into clear, actionable insights. With a strong foundation in data analysis methodologies, I am actively building a portfolio of projects to demonstrate my skills and solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+- **Core Skills:** Data Cleaning, Data Analysis, Data Storytelling
+- **Databases:** SQL
+- **Spreadsheets:** Advanced Excel
+- **Visualization:** Tableau, Power BI (learning)
+
+---
+
+### 📈 My Projects
+
+Here is a project I've worked on to demonstrate my analytical skills.
+
+#### **1. Cyclistic Bike-Share Analysis**
+- **Objective:** Analyzed a year's worth of bike-share data to identify key differences between casual and annual riders and provide recommendations to convert casual riders into members.
+- **Tools Used:** SQL for data manipulation and Excel for analysis and visualization.
+- **Key Outcome:** Provided data-backed recommendations on how to optimize pricing and marketing strategies.
+
+---
+
+### 🤝 Let's Connect!
+
+I am actively seeking an entry-level Data Analyst position and am eager to contribute my skills to a forward-thinking team.
+
+- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/mahmoudhanirazzaz/)]
+- **Email:** [mahmoudhanirazzaz@gmail.com]
