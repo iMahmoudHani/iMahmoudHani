@@ -28,5 +28,5 @@ Here is a project I've worked on to demonstrate my analytical skills.
 
 I am actively seeking an entry-level Data Analyst position and am eager to contribute my skills to a forward-thinking team.
 
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/mahmoudhanirazzaz/)]
+- **LinkedIn:** [(https://www.linkedin.com/in/mahmoudhanirazzaz/)]
 - **Email:** [mahmoudhanirazzaz@gmail.com]
